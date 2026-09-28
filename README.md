@@ -67,19 +67,9 @@ The ESP32 connects to Wi-Fi, reads the DHT11 sensor every 5 seconds, creates a J
 
 ## Threshold
 
-The temperature threshold is set to:
-
-```text
-35°C
-```
-
+The temperature threshold is set to:35°C
 If:
-
-```text
 Temperature >= 35°C
-```
-
-the status becomes:
 
 ```text
 ALERT
