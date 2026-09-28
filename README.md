@@ -44,7 +44,7 @@ The ESP32 connects to Wi-Fi, reads the DHT11 sensor every 5 seconds, creates a J
 ## Working
 
 1. ESP32 connects to the configured Wi-Fi network.
-2. ESP32 synchronizes the time using an NTP server.
+2. ESP32 obtains the timestamp used in the sensor message.
 3. ESP32 connects to the MQTT broker.
 4. DHT11 measures temperature and humidity.
 5. Temperature is compared with the threshold value of 35°C.
