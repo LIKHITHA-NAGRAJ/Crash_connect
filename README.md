@@ -113,3 +113,8 @@ ESP32-MQTT-DHT11/
 ├── ESP32-MQTT-DHT11.ino
 └── README.md
 ```
+<img width="1526" height="2034" alt="image" src="https://github.com/user-attachments/assets/c8fbb9fc-571b-4ef2-b479-4cdffffe0275" />
+<img width="1366" height="768" alt="Screenshot (1115)" src="https://github.com/user-attachments/assets/d5ba001b-ff31-476d-9b01-5bde30c38116" />
+<img width="1366" height="768" alt="Screenshot (1113)" src="https://github.com/user-attachments/assets/8591ee7b-5d8b-4545-a510-1a9b67480db6" />
+
+
