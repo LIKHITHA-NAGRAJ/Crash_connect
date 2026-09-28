@@ -8,8 +8,8 @@
 #define type DHT11
 DHT dht(pin,type);
 
-const char* Wifi_ssid = "Redmi Note 13 5G";
-const char* Wifi_password = "12345678";
+const char* Wifi_ssid = "Your_Wifi";
+const char* Wifi_password = "Your_Password";
 
 const float threshold = 35.0;
 const char* DEVICE_ID = "CC_TEST_01";
