@@ -104,15 +104,6 @@ DHT11 Sensor
      ↓
 MQTT Subscriber
 ```
-
-## MQTT Topic
-
-The ESP32 publishes data to:
-
-```text
-CC_TEST_01/temperature
-```
-
 ## Project Structure
 
 ```text
