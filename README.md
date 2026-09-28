@@ -110,7 +110,7 @@ MQTT Subscriber
 ```text
 ESP32-MQTT-DHT11/
 │
-├── ESP32-MQTT-DHT11.ino
+├── test.ino
 └── README.md
 ```
 <img width="1526" height="2034" alt="image" src="https://github.com/user-attachments/assets/c8fbb9fc-571b-4ef2-b479-4cdffffe0275" />
