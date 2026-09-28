@@ -113,20 +113,6 @@ The ESP32 publishes data to:
 CC_TEST_01/temperature
 ```
 
-A subscriber can use the same topic to receive the sensor data.
-
-## Features
-
-* Real-time temperature monitoring
-* Humidity monitoring
-* MQTT communication
-* JSON-formatted sensor data
-* Unix timestamp
-* Temperature threshold alert
-* Automatic Wi-Fi reconnection
-* Automatic MQTT reconnection
-* Data transmission every 5 seconds
-
 ## Project Structure
 
 ```text
